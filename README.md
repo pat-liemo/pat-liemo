@@ -1,6 +1,6 @@
-### Hi there 👋
+### I am Pat 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pat-liemo&show_icons=true)](https://github.com/pat-liemo/github-readme-stats)
+
 <!--
 **pat-liemo/pat-liemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<img alt="My Stats" align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=pat-liemo&theme=neon&show_icons=true"/>
+<br/>
+<img alt="Most used" align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pat-liemo&layout=compact"/>
 
