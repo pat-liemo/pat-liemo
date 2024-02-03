@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pat-liemo)](https://github.com/pat-liemo/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pat-liemo&show_icons=true)](https://github.com/pat-liemo/github-readme-stats)
 <!--
 **pat-liemo/pat-liemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
